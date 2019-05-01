@@ -47,3 +47,4 @@ require_once "library/SMTP.php";
 	    echo "Message has been sent successfully";
 	}
 
+?>
